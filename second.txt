@@ -3,3 +3,4 @@ Learning Git is going well so far.
 Testing.
 Testing.
 Exercise left
+Adding this from binary branch
