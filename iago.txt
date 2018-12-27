@@ -4,4 +4,5 @@ Testing.
 Merge test in iago
 Branch exercise
 Merge conflict
+<<<<<<< HEAD
 Try it from binary
