@@ -4,3 +4,4 @@ Testing.
 Merge test in iago
 Branch exercise
 Merge conflict
+Try it from binary
