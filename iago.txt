@@ -3,3 +3,4 @@ Learning Git is going well so far.
 Testing.
 Merge test in iago
 Branch exercise
+Merge conflict
