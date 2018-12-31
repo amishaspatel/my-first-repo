@@ -1,4 +1,4 @@
-# Sean Kross
+# Amisha Patel
 
 ### Geography
 
